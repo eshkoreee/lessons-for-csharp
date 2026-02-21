@@ -1,0 +1,14 @@
+D:\уроки с#\lesson30\lesson30\bin\Debug\net8.0\lesson30.exe
+D:\уроки с#\lesson30\lesson30\bin\Debug\net8.0\lesson30.deps.json
+D:\уроки с#\lesson30\lesson30\bin\Debug\net8.0\lesson30.runtimeconfig.json
+D:\уроки с#\lesson30\lesson30\bin\Debug\net8.0\lesson30.dll
+D:\уроки с#\lesson30\lesson30\bin\Debug\net8.0\lesson30.pdb
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.AssemblyInfoInputs.cache
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.AssemblyInfo.cs
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.dll
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\refint\lesson30.dll
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.pdb
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\lesson30.genruntimeconfig.cache
+D:\уроки с#\lesson30\lesson30\obj\Debug\net8.0\ref\lesson30.dll

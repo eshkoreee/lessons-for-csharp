@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E1B0EB-0A15-494D-98D2-9796025F36BB}|lesson26\\lesson26.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson26\\lesson26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E1B0EB-0A15-494D-98D2-9796025F36BB}|lesson26\\lesson26.csproj|solutionrelative:lesson26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson26\\lesson26\\Program.cs",
+              "RelativeDocumentMoniker": "lesson26\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson26\\lesson26\\Program.cs",
+              "RelativeToolTip": "lesson26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:12:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

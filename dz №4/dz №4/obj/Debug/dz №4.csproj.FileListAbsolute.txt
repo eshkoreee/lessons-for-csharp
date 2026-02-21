@@ -1,0 +1,7 @@
+D:\уроки с#\dz №4\dz №4\bin\Debug\dz №4.exe.config
+D:\уроки с#\dz №4\dz №4\bin\Debug\dz №4.exe
+D:\уроки с#\dz №4\dz №4\bin\Debug\dz №4.pdb
+D:\уроки с#\dz №4\dz №4\obj\Debug\dz №4.csproj.AssemblyReference.cache
+D:\уроки с#\dz №4\dz №4\obj\Debug\dz №4.csproj.CoreCompileInputs.cache
+D:\уроки с#\dz №4\dz №4\obj\Debug\dz №4.exe
+D:\уроки с#\dz №4\dz №4\obj\Debug\dz №4.pdb

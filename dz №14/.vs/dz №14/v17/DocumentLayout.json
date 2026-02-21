@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211614\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7B89B-34B3-4A96-0B59-B98677E89036}|..\\dz \u211613\\dz \u211613\\dz \u211613.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211613\\dz \u211613\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3055754A-EEE0-4A10-866C-147008149E26}|dz \u211614\\dz \u211614.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211614\\dz \u211614\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055754A-EEE0-4A10-866C-147008149E26}|dz \u211614\\dz \u211614.csproj|solutionrelative:dz \u211614\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211613\\dz \u211613\\Program.cs",
+              "RelativeDocumentMoniker": "..\\dz \u211613\\dz \u211613\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211613\\dz \u211613\\Program.cs",
+              "RelativeToolTip": "..\\dz \u211613\\dz \u211613\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:03:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211614\\dz \u211614\\Program.cs",
+              "RelativeDocumentMoniker": "dz \u211614\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\dz \u211614\\dz \u211614\\Program.cs",
+              "RelativeToolTip": "dz \u211614\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:59:03.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

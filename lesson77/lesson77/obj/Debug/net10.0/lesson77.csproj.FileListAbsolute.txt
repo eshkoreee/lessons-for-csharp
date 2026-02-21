@@ -1,0 +1,14 @@
+D:\уроки с#\lesson77\lesson77\bin\Debug\net10.0\lesson77.exe
+D:\уроки с#\lesson77\lesson77\bin\Debug\net10.0\lesson77.deps.json
+D:\уроки с#\lesson77\lesson77\bin\Debug\net10.0\lesson77.runtimeconfig.json
+D:\уроки с#\lesson77\lesson77\bin\Debug\net10.0\lesson77.dll
+D:\уроки с#\lesson77\lesson77\bin\Debug\net10.0\lesson77.pdb
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.AssemblyInfoInputs.cache
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.AssemblyInfo.cs
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.dll
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\refint\lesson77.dll
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.pdb
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\lesson77.genruntimeconfig.cache
+D:\уроки с#\lesson77\lesson77\obj\Debug\net10.0\ref\lesson77.dll

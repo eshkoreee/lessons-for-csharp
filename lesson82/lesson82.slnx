@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Benchmark/Benchmark.csproj" />
+  <Project Path="lesson82/lesson82.csproj" />
+  <Project Path="lesson82_1/lesson82_1.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Benchmark/Benchmark.csproj" Id="de4744a4-f054-45a4-87a1-87c440c84984" />
+  <Project Path="BenchmarkForLesson81/BenchmarkForLesson81.csproj" Id="3921a04b-9a63-4d08-838c-8fd90a7a1bd5" />
+  <Project Path="lesson81/lesson81.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+D:\уроки с#\lesson71\lesson71_4\obj\Debug\net10.0\lesson71_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson71\lesson71_4\obj\Debug\net10.0\lesson71_4.AssemblyInfoInputs.cache
+D:\уроки с#\lesson71\lesson71_4\obj\Debug\net10.0\lesson71_4.AssemblyInfo.cs
+D:\уроки с#\lesson71\lesson71_4\obj\Debug\net10.0\lesson71_4.csproj.CoreCompileInputs.cache

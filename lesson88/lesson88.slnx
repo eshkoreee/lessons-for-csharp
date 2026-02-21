@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="lesson88/lesson88.csproj" />
+  <Project Path="lesson88_1/lesson88_1.csproj" Id="5a0c5859-61ea-403b-ba0b-d1c99b60f22b" />
+  <Project Path="lesson88_2/lesson88_2.csproj" Id="a915cda7-0654-4039-9459-8fbaa55d8b1c" />
+  <Project Path="lesson88_3/lesson88_3.csproj" Id="40ad275b-2103-46d0-9772-a6012a9f5687" />
+  <Project Path="lesson88_4/lesson88_4.csproj" Id="e371e44a-22c1-4f60-a417-dd3995a3ef91" />
+</Solution>

@@ -1,0 +1,7 @@
+D:\уроки с#\lesson5\lesson5\bin\Debug\lesson5.exe.config
+D:\уроки с#\lesson5\lesson5\bin\Debug\lesson5.exe
+D:\уроки с#\lesson5\lesson5\bin\Debug\lesson5.pdb
+D:\уроки с#\lesson5\lesson5\obj\Debug\lesson5.csproj.AssemblyReference.cache
+D:\уроки с#\lesson5\lesson5\obj\Debug\lesson5.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson5\lesson5\obj\Debug\lesson5.exe
+D:\уроки с#\lesson5\lesson5\obj\Debug\lesson5.pdb

@@ -1,0 +1,14 @@
+D:\уроки с#\lesson34\lesson34\bin\Debug\net8.0\lesson34.exe
+D:\уроки с#\lesson34\lesson34\bin\Debug\net8.0\lesson34.deps.json
+D:\уроки с#\lesson34\lesson34\bin\Debug\net8.0\lesson34.runtimeconfig.json
+D:\уроки с#\lesson34\lesson34\bin\Debug\net8.0\lesson34.dll
+D:\уроки с#\lesson34\lesson34\bin\Debug\net8.0\lesson34.pdb
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.AssemblyInfoInputs.cache
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.AssemblyInfo.cs
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.dll
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\refint\lesson34.dll
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.pdb
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\lesson34.genruntimeconfig.cache
+D:\уроки с#\lesson34\lesson34\obj\Debug\net8.0\ref\lesson34.dll

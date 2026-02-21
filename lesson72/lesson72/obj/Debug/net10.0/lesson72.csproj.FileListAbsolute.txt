@@ -1,0 +1,14 @@
+D:\уроки с#\lesson72\lesson72\bin\Debug\net10.0\lesson72.exe
+D:\уроки с#\lesson72\lesson72\bin\Debug\net10.0\lesson72.deps.json
+D:\уроки с#\lesson72\lesson72\bin\Debug\net10.0\lesson72.runtimeconfig.json
+D:\уроки с#\lesson72\lesson72\bin\Debug\net10.0\lesson72.dll
+D:\уроки с#\lesson72\lesson72\bin\Debug\net10.0\lesson72.pdb
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.AssemblyInfoInputs.cache
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.AssemblyInfo.cs
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.dll
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\refint\lesson72.dll
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.pdb
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\lesson72.genruntimeconfig.cache
+D:\уроки с#\lesson72\lesson72\obj\Debug\net10.0\ref\lesson72.dll

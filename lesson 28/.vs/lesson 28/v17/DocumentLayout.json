@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2402C6-F1D7-43CC-A55D-54E5E5700B7F}|lesson 28\\lesson 28.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2402C6-F1D7-43CC-A55D-54E5E5700B7F}|lesson 28\\lesson 28.csproj|solutionrelative:lesson 28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2402C6-F1D7-43CC-A55D-54E5E5700B7F}|lesson 28\\lesson 28.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\lesson 28.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D2402C6-F1D7-43CC-A55D-54E5E5700B7F}|lesson 28\\lesson 28.csproj|solutionrelative:lesson 28\\lesson 28.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lesson 28",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\lesson 28.csproj",
+              "RelativeDocumentMoniker": "lesson 28\\lesson 28.csproj",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\lesson 28.csproj",
+              "RelativeToolTip": "lesson 28\\lesson 28.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T16:49:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\Program.cs",
+              "RelativeDocumentMoniker": "lesson 28\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\lesson 28\\lesson 28\\Program.cs",
+              "RelativeToolTip": "lesson 28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:48:53.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

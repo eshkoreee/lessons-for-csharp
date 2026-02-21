@@ -1,0 +1,14 @@
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.AssemblyInfoInputs.cache
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.AssemblyInfo.cs
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson47\lesson47\bin\Debug\net8.0\lesson47.exe
+D:\уроки с#\lesson47\lesson47\bin\Debug\net8.0\lesson47.deps.json
+D:\уроки с#\lesson47\lesson47\bin\Debug\net8.0\lesson47.runtimeconfig.json
+D:\уроки с#\lesson47\lesson47\bin\Debug\net8.0\lesson47.dll
+D:\уроки с#\lesson47\lesson47\bin\Debug\net8.0\lesson47.pdb
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.dll
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\refint\lesson47.dll
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.pdb
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\lesson47.genruntimeconfig.cache
+D:\уроки с#\lesson47\lesson47\obj\Debug\net8.0\ref\lesson47.dll

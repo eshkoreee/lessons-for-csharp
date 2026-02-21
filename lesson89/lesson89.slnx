@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../lesson88/lesson88_4/lesson88_4.csproj" />
+  <Project Path="lesson89/lesson89.csproj" />
+  <Project Path="lesson89_2/lesson89_2.csproj" />
+</Solution>

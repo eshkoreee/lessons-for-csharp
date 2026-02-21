@@ -1,0 +1,14 @@
+D:\уроки с#\lesson42\lesson42\bin\Debug\net8.0\lesson42.exe
+D:\уроки с#\lesson42\lesson42\bin\Debug\net8.0\lesson42.deps.json
+D:\уроки с#\lesson42\lesson42\bin\Debug\net8.0\lesson42.runtimeconfig.json
+D:\уроки с#\lesson42\lesson42\bin\Debug\net8.0\lesson42.dll
+D:\уроки с#\lesson42\lesson42\bin\Debug\net8.0\lesson42.pdb
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.AssemblyInfoInputs.cache
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.AssemblyInfo.cs
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.csproj.CoreCompileInputs.cache
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.dll
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\refint\lesson42.dll
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.pdb
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\lesson42.genruntimeconfig.cache
+D:\уроки с#\lesson42\lesson42\obj\Debug\net8.0\ref\lesson42.dll

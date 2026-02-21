@@ -1,0 +1,7 @@
+D:\уроки с#\dz №3\dz №3\bin\Debug\dz №3.exe.config
+D:\уроки с#\dz №3\dz №3\bin\Debug\dz №3.exe
+D:\уроки с#\dz №3\dz №3\bin\Debug\dz №3.pdb
+D:\уроки с#\dz №3\dz №3\obj\Debug\dz №3.csproj.AssemblyReference.cache
+D:\уроки с#\dz №3\dz №3\obj\Debug\dz №3.csproj.CoreCompileInputs.cache
+D:\уроки с#\dz №3\dz №3\obj\Debug\dz №3.exe
+D:\уроки с#\dz №3\dz №3\obj\Debug\dz №3.pdb

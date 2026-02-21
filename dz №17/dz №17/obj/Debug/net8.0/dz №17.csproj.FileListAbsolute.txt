@@ -1,0 +1,14 @@
+D:\уроки с#\dz №17\dz №17\bin\Debug\net8.0\dz №17.exe
+D:\уроки с#\dz №17\dz №17\bin\Debug\net8.0\dz №17.deps.json
+D:\уроки с#\dz №17\dz №17\bin\Debug\net8.0\dz №17.runtimeconfig.json
+D:\уроки с#\dz №17\dz №17\bin\Debug\net8.0\dz №17.dll
+D:\уроки с#\dz №17\dz №17\bin\Debug\net8.0\dz №17.pdb
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.AssemblyInfoInputs.cache
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.AssemblyInfo.cs
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.csproj.CoreCompileInputs.cache
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.dll
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\refint\dz №17.dll
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.pdb
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\dz №17.genruntimeconfig.cache
+D:\уроки с#\dz №17\dz №17\obj\Debug\net8.0\ref\dz №17.dll

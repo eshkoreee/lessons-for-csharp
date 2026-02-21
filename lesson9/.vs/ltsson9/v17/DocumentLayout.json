@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\ltsson9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3C239-786C-4810-A0B8-E7281099D339}|ltsson9\\ltsson9.csproj|d:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\ltsson9\\ltsson9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3C239-786C-4810-A0B8-E7281099D339}|ltsson9\\ltsson9.csproj|solutionrelative:ltsson9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\ltsson9\\ltsson9\\Program.cs",
+              "RelativeDocumentMoniker": "ltsson9\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0440\u043E\u043A\u0438 \u0441#\\ltsson9\\ltsson9\\Program.cs*",
+              "RelativeToolTip": "ltsson9\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:07:03.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
