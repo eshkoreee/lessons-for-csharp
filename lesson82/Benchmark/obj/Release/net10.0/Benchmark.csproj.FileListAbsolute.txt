@@ -1,5 +1,0 @@
-D:\уроки с#\lesson82\Benchmark\obj\Release\net10.0\Benchmark.csproj.AssemblyReference.cache
-D:\уроки с#\lesson82\Benchmark\obj\Release\net10.0\Benchmark.GeneratedMSBuildEditorConfig.editorconfig
-D:\уроки с#\lesson82\Benchmark\obj\Release\net10.0\Benchmark.AssemblyInfoInputs.cache
-D:\уроки с#\lesson82\Benchmark\obj\Release\net10.0\Benchmark.AssemblyInfo.cs
-D:\уроки с#\lesson82\Benchmark\obj\Release\net10.0\Benchmark.csproj.CoreCompileInputs.cache

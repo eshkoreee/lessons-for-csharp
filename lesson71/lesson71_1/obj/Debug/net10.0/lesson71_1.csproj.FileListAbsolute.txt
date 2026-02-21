@@ -1,4 +1,0 @@
-D:\уроки с#\lesson71\lesson71_1\obj\Debug\net10.0\lesson71_1.GeneratedMSBuildEditorConfig.editorconfig
-D:\уроки с#\lesson71\lesson71_1\obj\Debug\net10.0\lesson71_1.AssemblyInfoInputs.cache
-D:\уроки с#\lesson71\lesson71_1\obj\Debug\net10.0\lesson71_1.AssemblyInfo.cs
-D:\уроки с#\lesson71\lesson71_1\obj\Debug\net10.0\lesson71_1.csproj.CoreCompileInputs.cache

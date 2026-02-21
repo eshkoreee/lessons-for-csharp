@@ -1,7 +1,0 @@
-D:\уроки с#\dz №1,2\dz №1,2\bin\Debug\dz №1,2.exe.config
-D:\уроки с#\dz №1,2\dz №1,2\bin\Debug\dz №1,2.exe
-D:\уроки с#\dz №1,2\dz №1,2\bin\Debug\dz №1,2.pdb
-D:\уроки с#\dz №1,2\dz №1,2\obj\Debug\dz №1,2.csproj.AssemblyReference.cache
-D:\уроки с#\dz №1,2\dz №1,2\obj\Debug\dz №1,2.csproj.CoreCompileInputs.cache
-D:\уроки с#\dz №1,2\dz №1,2\obj\Debug\dz №1,2.exe
-D:\уроки с#\dz №1,2\dz №1,2\obj\Debug\dz №1,2.pdb

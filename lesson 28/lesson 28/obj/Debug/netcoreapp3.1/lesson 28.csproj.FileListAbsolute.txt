@@ -1,4 +1,0 @@
-D:\уроки с#\lesson 28\lesson 28\obj\Debug\netcoreapp3.1\lesson 28.GeneratedMSBuildEditorConfig.editorconfig
-D:\уроки с#\lesson 28\lesson 28\obj\Debug\netcoreapp3.1\lesson 28.AssemblyInfoInputs.cache
-D:\уроки с#\lesson 28\lesson 28\obj\Debug\netcoreapp3.1\lesson 28.AssemblyInfo.cs
-D:\уроки с#\lesson 28\lesson 28\obj\Debug\netcoreapp3.1\lesson 28.csproj.CoreCompileInputs.cache

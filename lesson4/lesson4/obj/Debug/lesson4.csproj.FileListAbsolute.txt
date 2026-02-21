@@ -1,7 +1,0 @@
-D:\уроки с#\lesson4\lesson4\bin\Debug\lesson4.exe.config
-D:\уроки с#\lesson4\lesson4\bin\Debug\lesson4.exe
-D:\уроки с#\lesson4\lesson4\bin\Debug\lesson4.pdb
-D:\уроки с#\lesson4\lesson4\obj\Debug\lesson4.csproj.AssemblyReference.cache
-D:\уроки с#\lesson4\lesson4\obj\Debug\lesson4.csproj.CoreCompileInputs.cache
-D:\уроки с#\lesson4\lesson4\obj\Debug\lesson4.exe
-D:\уроки с#\lesson4\lesson4\obj\Debug\lesson4.pdb
